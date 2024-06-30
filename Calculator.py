@@ -32,7 +32,6 @@ while True:
         print("Invalid input!")
 
     nxt_calculation = input("\nDo you want to perform another calculation? (yes/no): ")  
-
     if nxt_calculation.lower() != "yes":
         print("Thanks for using SIM Calculator")
         break
