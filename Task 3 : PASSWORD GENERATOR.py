@@ -1,7 +1,7 @@
 import random
 import string
 
-print("GENpass: Pssword Generator")
+print("GENpass: Password Generator")
 
 def generate_password(length, include_digits, include_punctuation):
     characters = string.ascii_letters  
